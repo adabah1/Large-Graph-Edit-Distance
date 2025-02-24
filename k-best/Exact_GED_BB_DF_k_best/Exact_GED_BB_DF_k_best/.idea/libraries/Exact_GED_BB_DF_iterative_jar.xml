@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Exact_GED_BB_DF_iterative_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Exact_GED_BB_DF_iterative_jar/k-best_test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Exact_GED_BB_DF_iterative_jar/dinamique-k-best.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Exact_GED_BB_DF_iterative_jar/dinamique-k-best0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Exact_GED_BB_DF_iterative_jar/k-best.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

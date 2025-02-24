@@ -1,0 +1,1 @@
+<edge from="5" to="6"><attr name="frequency"><int>2</int></attr><attr name="type0"><double>2</double></attr><attr name="distance0"><double>10.96647</double></attr><attr name="type1"><double>5</double></attr><attr name="distance1"><double>0.0</double></attr></edge>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jcuda-10.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-core-1.0.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/net/sourceforge/gxl" />
+      <root url="jar://$PROJECT_DIR$/lib/gxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxl-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jcuda-10.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jcuda-10.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

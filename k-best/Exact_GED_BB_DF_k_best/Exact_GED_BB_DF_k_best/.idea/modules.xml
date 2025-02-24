@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exact_GED_BB_DF/Exact_GED_BB_DF.iml" filepath="$PROJECT_DIR$/Exact_GED_BB_DF/Exact_GED_BB_DF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exact_GED_BB_DF_k_best.iml" filepath="$PROJECT_DIR$/Exact_GED_BB_DF_k_best.iml" />
+    </modules>
+  </component>
+</project>
